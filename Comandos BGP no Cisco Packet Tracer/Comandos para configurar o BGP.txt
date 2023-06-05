@@ -1,0 +1,29 @@
+router 1:
+exit
+router bgp 300
+network 192.168.3.0
+network 10.0.0.0
+network 12.0.0.0
+neighbor 10.0.0.1 remote-as 100
+neighbor 12.0.0.2 remote-as 200
+save
+
+router 0:
+exit
+router bgp 100
+network 192.168.1.0
+network 10.0.0.0
+network 11.0.0.0
+neighbor 10.0.0.2 remote-as 300
+neighbor 11.0.0.2 remote-as 200
+save
+
+router 3:
+exit
+router bgp 200
+network 192.168.2.0
+network 11.0.0.0
+network 12.0.0.0
+neighbor 11.0.0.1 remote-as 100
+neighbor 12.0.0.2 remote-as 300
+save
