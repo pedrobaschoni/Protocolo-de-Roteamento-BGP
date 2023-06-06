@@ -17,7 +17,7 @@ Para configurar o BGP no Cisco Packet Tracer, siga os passos abaixo:
 Este projeto já foi configurado e está pronto para simulação. Você pode explorar a topologia da rede, visualizar as configurações dos roteadores e observar o comportamento do BGP. Não é necessário realizar qualquer configuração adicional neste momento.
 
 ## Recursos Adicionais
-Se você deseja aprender mais sobre o BGP e suas configurações no Cisco Packet Tracer, recomendamos consultar a documentação oficial do software Cisco Packet Tracer e recursos de aprendizado disponíveis online.
+Se você deseja aprender mais sobre o BGP e suas configurações no Cisco Packet Tracer, recomendo consultar a documentação oficial do software Cisco Packet Tracer e recursos de aprendizado disponíveis online em inúmeros sites e artigos.
 
 Esperamos que este projeto seja útil para o seu aprendizado. Se tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato.
 
