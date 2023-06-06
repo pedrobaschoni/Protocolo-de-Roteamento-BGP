@@ -19,8 +19,14 @@ Este projeto já foi configurado e está pronto para simulação. Você pode exp
 ## Recursos Adicionais
 Se você deseja aprender mais sobre o BGP e suas configurações no Cisco Packet Tracer, recomendo consultar a documentação oficial do software Cisco Packet Tracer e recursos de aprendizado disponíveis online em inúmeros sites e artigos.
 
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request com melhorias, correções de bugs ou novos recursos.
+
+---
+
 Esperamos que este projeto seja útil para o seu aprendizado. Se tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato.
 
-Divirta-se explorando esta simulação do Protocolo de Roteamento BGP no Cisco Packet Tracer! 🚀
+Divirta-se codificando! 🚀
 
 *Observação: Este projeto foi desenvolvido apenas para fins educacionais e de aprendizado. Não se destina a ser implementado em ambientes de produção real.*
