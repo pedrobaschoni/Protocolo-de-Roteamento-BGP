@@ -18,7 +18,7 @@ neighbor 10.0.0.2 remote-as 300
 neighbor 11.0.0.2 remote-as 200
 save
 
-router 3:
+router 2:
 exit
 router bgp 200
 network 192.168.2.0
